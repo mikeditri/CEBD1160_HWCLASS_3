@@ -1,0 +1,6 @@
+#the main difference from what I could gather online is that bother docker and singularity are 
+#container. Docker allows you to contain all apects of the OS and all features so no matter where 
+#you open the program it will always work, no matter what. Singularity allowd you to buid a 
+#container however it also allows you to leverage the services and features of the host machine, 
+#which can be a big advantage when combining with scietific (complex) tools in combination with 
+#the container
